@@ -20,13 +20,13 @@
 
    not just code — *craft.*
 
-   I treat every pixel like a stitch on a runway piece.  
-   Interfaces should feel like fashion:  
+   i treat every pixel like a stitch on a runway piece.  
+   interfaces should feel like fashion:  
    effortless on the surface,  
    obsessive behind the scenes.
 
-   Frontend by trade. Design by obsession.  
-   Python when the backstage needs automating.
+   frontend by trade. design by obsession.  
+   python when the backstage needs automating.
 
 
 -----
