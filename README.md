@@ -12,7 +12,6 @@
 
 </div>
 
------
 
 <br/>
 
@@ -28,8 +27,6 @@
    frontend by trade. design by obsession.  
    python when the backstage needs automating.
 
-
------
 
 <br/>
 
@@ -50,7 +47,6 @@
 
 </div>
 
------
 
 <br/>
 
@@ -72,7 +68,6 @@
 
 <br/>
 
------
 
 <br/>
 
