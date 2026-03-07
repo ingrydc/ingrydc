@@ -1,5 +1,3 @@
-<!-- Header -->
-
 <div align="center">
 
 ```
@@ -30,7 +28,6 @@
    Frontend by trade. Design by obsession.  
    Python when the backstage needs automating.
 
-<br/><br/><br/><br/><br/>
 
 -----
 
@@ -52,8 +49,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 </div>
-
-<br/>
 
 -----
 
@@ -102,8 +97,6 @@
 *“Fashion fades, only clean code remains the same.”*
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=ingrydc&style=flat-square&color=black&label=visitors" />
 
 </div>
 <!--
