@@ -12,7 +12,6 @@
 
 </div>
 
-
 <br/>
 
 ### about
@@ -27,8 +26,9 @@
    frontend by trade. design by obsession.  
    python when the backstage needs automating.
 
-
 <br/>
+
+-----
 
 ### the atelier
 
@@ -47,35 +47,25 @@
 
 </div>
 
-
 <br/>
+
+-----
 
 ### the runway
 
 > *Drafted in Figma. Tailored in code. Delivered to the world.*
 
 <br/>
-
-**01 — [Politeia](https://ingrydc.github.io/portfolio/#projects)**
-   Biblioteca interativa de teoria política. Schumpeter, Foucault, Dahl e Weber — cada ideia virou uma página navegável.
-   `HTML` `CSS` `JavaScript`
+  [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge)]
+   **→ [ver a coleção completa](https://ingrydc.github.io/portfolio/)**
 
 <br/>
 
-**02 — [F1 & Glam](https://ingrydc.github.io/portfolio/#projects)**
-   A Fórmula 1 traduzida para o idioma da moda. Quando o pit stop vira retoque relâmpago.
-   `HTML` `CSS` `JavaScript`
-
-<br/>
-
-
-<br/>
+-----
 
 ### find me
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge)](https://ingrydc.github.io/portfolio/)
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrydcmartins)
  
@@ -91,20 +81,4 @@
 
 *“Fashion fades, only clean code remains the same.”*
 
-<br/>
-
 </div>
-<!--
-**ingrydc/ingrydc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
