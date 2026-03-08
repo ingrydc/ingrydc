@@ -56,7 +56,7 @@
 > *Drafted in Figma. Tailored in code. Delivered to the world.*
 
 <br/>
-  [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge)]
+
    **→ [ver a coleção completa](https://ingrydc.github.io/portfolio/)**
 
 <br/>
