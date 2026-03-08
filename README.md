@@ -57,9 +57,6 @@
 
 <br/>
 
-   cada peça tem nome, intenção e história.  
-   nada aqui foi feito por acidente.
-
    *a coleção completa está no portfólio —*
 
    [![Portfolio](https://img.shields.io/badge/portfolio-%23ffb6c1.svg?style=for-the-badge&logoColor=white)](https://ingrydc.github.io/portfolio/)
