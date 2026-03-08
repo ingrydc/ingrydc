@@ -57,7 +57,8 @@
 
 <br/>
 
-   **→ [ver a coleção completa](https://ingrydc.github.io/portfolio/)**
+   *a coleção completa está no portfólio —*  
+   **[ingrydc.github.io/portfolio](https://ingrydc.github.io/portfolio/)**
 
 <br/>
 
@@ -66,7 +67,7 @@
 ### find me
 
 <div align="center">
- 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrydcmartins)
  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingrydc)
