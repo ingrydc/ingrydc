@@ -23,8 +23,6 @@
 
 &nbsp;
 
----
-
 ### the atelier
 
 > *The Seasonal Stack — ferramentas que nunca saem de moda.*
@@ -38,8 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 &nbsp;
-
----
 
 ### the runway
 
@@ -60,8 +56,6 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-%23ffb6c1.svg?style=for-the-badge&logoColor=white)](https://ingrydc.github.io/portfolio/)
 
 &nbsp;
-
----
 
 ### find me
 
