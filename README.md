@@ -5,7 +5,7 @@
 │                                                             │
 │   I N G R Y D   C .                                         │
 │   ─────────────────────────────────────────────────────    │
-│   Creating the Louis Vuitton of the landing pages.          │
+│   Creating the Louis Vuitton of Landing Pages.          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
