@@ -45,7 +45,6 @@
 
 | projeto | descrição |
 |---|---|
-| [**Politeia**](https://ingrydc.github.io/politeia) | biblioteca interativa de teoria política |
 | [**F1 & Glam**](https://ingrydc.github.io/f1-glam/) | a fórmula 1 traduzida para o idioma da moda |
 | [**Fleur**](https://ingrydc.github.io/fleur/) | weekly planner delicado e interativo |
 
